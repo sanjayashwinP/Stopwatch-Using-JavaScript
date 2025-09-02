@@ -197,11 +197,14 @@ updateDisplay();
 ```
 ## Output
 <img width="1898" height="893" alt="image" src="https://github.com/user-attachments/assets/bf64f17f-bcdc-443e-b422-ee5e09d471dd" />
-#### start
+
+start
 <img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/3c8f301e-bba9-4cf7-ba21-32e09263e201" />
-#### pause
+
+pause
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/eac4a7bd-a73b-4497-ab10-dd23db30ce47" />
-#### reset
+
+reset
 <img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/7d0daa63-9d1d-4e4f-88f5-e4f9f63be336" />
 
 
